@@ -1,4 +1,4 @@
-# Drupal 8 User Guide - let's have a German Translation
+# Drupal 8 User Guide - an on-ramp to the Drupal Learning Curve
 
 These are the slides for a talk given at Drupalcamp Schwerin on Saturday 21 October 2017:
 
