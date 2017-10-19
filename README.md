@@ -6,7 +6,7 @@ https://dcsn17.drupalcamp.de/node/30
 
 The pdf of the slides can be downloaded here:
 
-https://github.com/michaellenahan/drupal-8-user-guide-translation/raw/master/drupal-8-user-guide-translation.pdf
+https://github.com/michaellenahan/drupal-8-user-guide-drupalcamp-schwerin-2017/raw/master/drupal-8-user-guide-translation.pdf
 
 The slides were created using [reveal.js](https://github.com/hakimel/reveal.js).
 
